@@ -1,0 +1,36 @@
+{
+  "name": "dojo-SQL-String-Generator",
+  "version": "1.0.0",
+  "description": "Implementing this dojo: http://www.solveet.com/exercises/SQL-String-Generator/139",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "jsmockito": "^1.0.5",
+    "mocha-sinon": "^1.1.4",
+    "chai": "^2.3.0",
+    "sinon": "^1.14.1",
+    "sinon-chai": "^2.7.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/serkanserttop/dojo-SQL-String-Generator"
+  },
+  "keywords": [
+    "dojo",
+    "sql"
+  ],
+  "author": "Serkan Serttop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serkanserttop/dojo-SQL-String-Generator/issues"
+  },
+  "homepage": "https://github.com/serkanserttop/dojo-SQL-String-Generator"
+}
